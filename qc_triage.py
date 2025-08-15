@@ -9,24 +9,19 @@ QC triage for HistoQC results.tsv focusing on:
 
 Outputs CSV with only:
   filename, qc_flag, qc_reason
-
-Hardcoded input path:
-  /Volumes/PALETAS/data/histoqc_output_20250815-212205-working/results.tsv
 """
 
 import pandas as pd
-
-# --- Hardcoded paths ---
 INPUT_PATH = "/Volumes/PALETAS/data/histoqc_output_20250815-212205-working/results.tsv"
 OUTPUT_PATH = "qc_results.csv"
 
-# --- Column names ---
+#  Column names 
 COL_FILENAME = "filename"
 COL_BLUR = "blurry_removed_percent"
 COL_BUBBLE = "flat_areas"
 COL_DARK = "dark"
 
-# --- Thresholds ---
+#  Thresholds 
 BLUR_WARN = 0.0035   # 0.35%
 BLUR_FAIL = 0.015    # 1.5%
 
