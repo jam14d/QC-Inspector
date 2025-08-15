@@ -1,0 +1,11 @@
+filename,qc_flag,qc_reason
+24-204_MUC5bISH_IHC_AT2_Ferret-127_LCR-F_s2.mrxs,fail,blur
+24-204_MUC5bISH_IHC_AT2_Ferret-133_LCR-B_s2.mrxs,fail,"blur, bubble"
+24-204_HE_Ferret-149_RCR-H.mrxs,warn,blur
+24-204_HE_Ferret-143_PAN-A.mrxs,pass,none
+24-204_HE_Ferret-143_KID-B_s2.mrxs,pass,none
+24-204_HE_Ferret-148_LCR-B_c2.mrxs,pass,none
+24-204_HE_Ferret-143_PAN-A_s2.mrxs,pass,none
+24-204_MUC5bISH_IHC_AT2_Ferret-127_LCR-H_s2.mrxs,fail,blur
+24-204_MUC5bISH_IHC_AT2_Ferret-128_TRA-MID_s2.mrxs,fail,"blur, bubble"
+24-204_HE_Ferret-148_RCR-B_c2.mrxs,pass,none
