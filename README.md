@@ -153,6 +153,6 @@ slide3.mrxs,fail, blur, dark speck, bubble
 ---
 
 ## Final Notes
-- This workflow is tuned for common use cases and may need adjustment for specific datasets.  
+- This workflow is tuned for my use cases and may need adjustment for others.  
 - Memory, config, and thresholds should be balanced for speed, accuracy, and system stability.  
-- The QC triage step is essential for automated downstream filtering.  
+- The QC triage step is helpful for automated downstream filtering.  
